@@ -15,7 +15,7 @@ The first step is data preprocessing. We process the data and split the data int
 ## Machine Learning Model
 Based on the analysis, random forest and AdaBoost are suitable for this task. Since the random forest multiclass classification algorithm is already implemented in Spark Machine Learning Library and easier to use for our system, we choose random forest as our  model/
 
-
+## Result
 Here is the screenshot of the system:
 
 ![screenshot](https://github.com/jingan0514/Real_Time_Stress_Assessment/blob/master/images/Real-time%20Stress%20Assessment.png)
